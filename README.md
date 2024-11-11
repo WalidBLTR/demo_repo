@@ -1,3 +1,3 @@
 #Demonstration
 
-This an ettempt ro learn git
+This is an attempt to learn git!!
